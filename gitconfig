@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = marcostanure@gmail.com
+	name = Marcos Tanure
